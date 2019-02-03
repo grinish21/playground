@@ -1,7 +1,7 @@
 # How to start
-Install docker
-Install maven
-Install node & npm
+Install docker    
+Install maven    
+Install node & npm    
 
 ## To run the database:
 
