@@ -8,7 +8,7 @@
 
     <parent>
         <groupId>com.mycompany</groupId>
-        <artifactId>magnet</artifactId>
+        <artifactId>s3s</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
